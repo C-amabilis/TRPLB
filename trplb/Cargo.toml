@@ -1,0 +1,7 @@
+[package]
+name = "trplb"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+guessing_game = { path = "../guessing_game"}
